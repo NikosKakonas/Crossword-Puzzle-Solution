@@ -4,7 +4,9 @@ This is a project that uses regular expressions in order to find solution to a c
 
 # Requirements
 
-You need to install in your computer: python 3 and sre_yield (python library)
+You need to install in your computer:
+Python 3
+Sre_yield (python library)
 
 # Run the Program
 
