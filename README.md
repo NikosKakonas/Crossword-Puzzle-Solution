@@ -9,6 +9,6 @@ You need to install in your computer: python 3 and sre_yield (python library)
 # Run the Program
 
 Type to the command line:
-python3 re_crossword.py <file_name>.csv <file_name>.txt
+python3 re_crossword.py docs/<file_name>.csv docs/<file_name>.txt
 
 The file_name could be films, hex or laughs.
