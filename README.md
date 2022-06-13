@@ -1,6 +1,6 @@
 # Crossword-Puzzle-Solution
 
-This is a project that uses regular expressions in order to find solution to a crossword. The crossword is given from the csv file and the regular expressions from the txt files.
+This is a project that uses regular expressions in order to find solution to a crossword. The crossword is given from the csv files and the regular expressions from the txt files.
 
 # Requirements
 
